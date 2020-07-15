@@ -4,6 +4,8 @@ A simple demo with google webrtc.
 
 the signaling is on websocket. 
 
+open signaling server with this repo https://github.com/rshinich/SignallingServer
+
 ## Usage
 
 1. clone the code
